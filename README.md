@@ -4,12 +4,12 @@ Statically serve a directory with express.js
 ## Installation
 Github:
 ```
-git clone https://github.com/I2rys/dirstatic
+git clone https://github.com/I2rys/dirstatic2
 ```
 
 NpmJS:
 ```
-npm i dirstatic
+npm i dirstatic2
 ```
 
 ## Usage
