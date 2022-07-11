@@ -1,0 +1,32 @@
+{
+    "name": "dirstatic",
+    "version": "1.0.0",
+    "scripts": {
+      "test": "jest"
+    },
+    "jest": {
+      "collectCoverage": true
+    },
+    "description": "IStatically serve a directory with express.js",
+    "main": "index.js",
+    "directories": {
+      "test": "test"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/I2rys/dirstatic.git"
+    },
+    "keywords": [
+      "middleware",
+      "express.js",
+      "directory",
+      "static"
+    ],
+    "author": "I2rys",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/I2rys/dirstatic/issues"
+    },
+    "homepage": "https://github.com/I2rys/dirstatic#readme"
+  }
+  
